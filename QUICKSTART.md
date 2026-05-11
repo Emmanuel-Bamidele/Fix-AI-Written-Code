@@ -7,6 +7,12 @@ It is **not** limited to fixing one issue.
 
 The recommended workflow is to audit the whole codebase first, create a prioritized repair backlog, then fix issues one at a time so changes stay safe, reviewable, and testable.
 
+Want your agent to help use this repo? Paste this into your coding agent: 
+
+```text
+Read https://github.com/Emmanuel-Bamidele/Fix-AI-Written-Code, use its prompts to audit this codebase, create a prioritized repair backlog, and do not modify files until I approve the first fix.
+```
+
 ---
 
 ## Why not fix everything in one prompt?
