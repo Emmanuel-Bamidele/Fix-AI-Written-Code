@@ -54,7 +54,7 @@ This repository helps you:
 3. Fix security, correctness, testing, dependency, CI, architecture, and production-readiness issues.
 4. Keep changes small and reviewable.
 5. Add tests for real behavior.
-6. Avoid dangerous âfix everythingâ agent patches.
+6. Avoid dangerous fix everything agent patches.
 7. Move an AI-generated codebase closer to production quality.
 
 The goal is not just to make the app run.
@@ -633,7 +633,7 @@ Covers problems that are especially common in AI-generated code:
 - Repeated helper functions
 - Comments that claim safety without real checks
 
-Use this when the code âlooks rightâ but feels suspicious.
+Use this when the code looks right but feels suspicious.
 
 ---
 
