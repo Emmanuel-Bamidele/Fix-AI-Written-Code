@@ -10,7 +10,7 @@ The recommended workflow is to audit the whole codebase first, create a prioriti
 Want your agent to help use this repo? Paste this into your coding agent: 
 
 ```text
-Read https://github.com/Emmanuel-Bamidele/Fix-AI-Written-Code, use its prompts to audit this codebase, create a prioritized repair backlog, and do not modify files until I approve the first fix.
+Install Fix-AI-Written-Code into this codebase from https://github.com/Emmanuel-Bamidele/Fix-AI-Written-Code: download or clone the repository, copy the prompts and templates into a folder named fix-ai-written-code/ exactly as provided, do not rewrite the prompt files, update paths only if necessary, and ask me whether to commit it or add fix-ai-written-code/ to .gitignore.
 ```
 
 ---
